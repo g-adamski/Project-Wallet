@@ -13,11 +13,13 @@ Preview of my project group Trello:
 
 And couple examples of Bug Reports:
 
-<a href="https://docs.google.com/spreadsheets/d/19z8bzxkwmar3cu0ArptXk8pZ_L-aIjfB/edit#gid=1943108804/" target="_blank"> <b>Bug Report #1</b></a></p>
+<a href="https://github.com/g-adamski/Project-Wallet/blob/main/BR-1.png/" target="_blank"> <b>Bug Report #1</b></a></p>
 
-<a href="https://docs.google.com/spreadsheets/d/19z8bzxkwmar3cu0ArptXk8pZ_L-aIjfB/edit#gid=1943108804/" target="_blank"> <b>Bug Report #2</b></a></p>
+<a href="https://github.com/g-adamski/Project-Wallet/blob/main/BR-2.png/" target="_blank"> <b>Bug Report #2</b></a></p>
 
-<a href="https://docs.google.com/spreadsheets/d/19z8bzxkwmar3cu0ArptXk8pZ_L-aIjfB/edit#gid=1943108804/" target="_blank"> <b>Bug Report #3</b></a></p>
+<a href="https://github.com/g-adamski/Project-Wallet/blob/main/BR-3.png/" target="_blank"> <b>Bug Report #3</b></a></p>
+
+Test Cases we used to write in Trello cards with attached screenshots of bugs.
 
 
 
